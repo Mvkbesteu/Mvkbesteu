@@ -4,7 +4,7 @@
 
 
 ```sh
-~/Dyzean: fetch.sh
+~/Mvk: winfetch.ps
 ```
 
 <img align="left" src="[https://github.com/Dyzean.png](https://imgur.com/a/4fepP7A)" width="308" />
