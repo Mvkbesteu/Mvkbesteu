@@ -7,7 +7,7 @@
 ~/Mvk: winfetch.ps
 ```
 
-<img align="left" src="[https://github.com/Dyzean.png](https://imgur.com/a/4fepP7A)" width="308" />
+<img align="left" src="[![logo](https://user-images.githubusercontent.com/53517019/193021224-dad48afa-598e-418a-b55e-cfb9d23f305a.jpg))" width="308" />
 
 ```haskell
 mvk@github
@@ -26,3 +26,4 @@ repos    • {{ repositories }}
 commits  • {{ commits }}
 issues   • {{ issues }}
 ```
+
